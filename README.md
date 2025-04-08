@@ -27,6 +27,6 @@ This project combines SQL and Python to extract and visualize insights from a si
 
 ---
 
-> Built by Shyam | MBA Analytics  
+> Built by Sejal | MBA  
 > Specialization: Marketing Analytics  
 
